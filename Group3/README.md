@@ -2,7 +2,7 @@
 
 1. Sahasraa Vaka (801327852)
 2. Hari Chandana Pulaparti (801329190)
-3.Abhilash Bandi (801329252)
+3. Abhilash Bandi (801329252)
 4. Subramanya Lalitha Adithya Prasad Gopaluni Venkata (801328236)
 
 **Project Title:**
